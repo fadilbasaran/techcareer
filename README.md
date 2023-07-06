@@ -1,2 +1,2 @@
 # techcareer
-techcareer.net düzenlenmiş olduğu bootcamp final sunumu.
+techcareer.net düzenlenmiş olduğu Product Managment Bootcamp final sunumu.
