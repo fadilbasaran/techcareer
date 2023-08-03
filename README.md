@@ -1,2 +1,2 @@
-# techcareer
-techcareer.net düzenlenmiş olduğu Product Managment Bootcamp final sunumu.
+# Techcareer
+Techcareer'in düzenlemiş olduğu Project Management Bootcamp'in bitirme projesi sunumu.
